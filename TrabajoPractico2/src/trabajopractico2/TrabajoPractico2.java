@@ -16,7 +16,7 @@ public class TrabajoPractico2 {
     public static void main(String[] args) {
         // TODO code application logic here
         //Prueba de fetch,pull - push
-        //Hola gente soy Gaby! ahora hago el pull de esto
+        //Hola gente soy Gaby! ahora hago el push de esto
     }
     
 }
